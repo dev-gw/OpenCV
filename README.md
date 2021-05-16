@@ -5,6 +5,4 @@
  
  cctv_base.py - 라즈베리파이를 통해 영상을 찍는 기본적인 기능   
  
- gbc_balls_detection - YOLOv5를 활용하여 LEGO GBC ball을 학습하고 인식
- 
  extract.py - 동영상을 1초 단위로 이미지 추출하는 기능
