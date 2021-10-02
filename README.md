@@ -1,10 +1,9 @@
 # computer_vision
-라즈베리파이를 활용한 cctv 구현과 영상처리
 
  functions - picamera functions on raspberrypi 4 
  
- Darknet_Training - Generate yolo weights on colab
+ Darknet_Training - Generate yolo weights on COLAB
  
- GBC_balls_detection - Detect objects using custom weights
+ GBC_balls_detection - Detect objects using custom weights on COLAB
 
  boun.py - Create rectangle using opencv
